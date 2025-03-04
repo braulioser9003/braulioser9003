@@ -1,7 +1,9 @@
 Hi, I'm Braulio Rodriguez!
+
 Transforming Ideas into Digital Realities 🌐
 
 As a passionate and results-driven Web Developer, I specialize in building innovative, tailored digital solutions that drive business growth. With 10+ years of experience, I help businesses succeed by developing high-performance websites, scalable web applications, and seamless system integrations.
+
 🚀 What I Do
 
 ♛ High-Level Web Development
